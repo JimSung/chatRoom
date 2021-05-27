@@ -8,10 +8,7 @@
     
 ### 使用
     - 构建server：进入src/serve
-    ```
-    go build main.go
-    ```
-    - 构建client：进入src/client
-    ```
-    go build client.go
-    ```
+   `go build main.go`
+    
+    - 构建client：进入src/client 
+   `go build client.go`
